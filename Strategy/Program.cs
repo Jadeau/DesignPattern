@@ -6,6 +6,9 @@ using System.Collections.Generic;
 
 namespace Strategy
 {
+    /// <summary>
+    ///  Usages: Use the Strategy pattern when you want to use different variants of an algorithm within an object and be able to switch from one algorithm to another during runtime.
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
